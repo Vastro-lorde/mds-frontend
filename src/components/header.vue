@@ -1,16 +1,14 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-    <h3>{{ count }}</h3>
+    <h1></h1>
+    <h3></h3>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'header',
   props: {
-    msg: String,
-    count: Number
   }
 }
 </script>

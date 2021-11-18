@@ -1,0 +1,8 @@
+* {
+    border: 0;
+    padding: 0;
+}
+
+#nav a.router-link:hover {
+    color: #F5E434;
+}
