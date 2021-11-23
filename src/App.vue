@@ -3,7 +3,8 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/news">News</router-link> |
     <router-link to="/about">About</router-link> |
-    <router-link to="/login">Login</router-link>
+    <router-link to="/login">Login</router-link> |
+    <router-link to="/profile">Profile</router-link>
   </div>
   <router-view/>
   <footer class="text-white text-center text-lg-start " style="background-color: #414d6f;">
@@ -45,10 +46,10 @@
               <span class="fa-li"><i class="fas fa-envelope"></i></span><span class="ms-2">info@example.com</span>
             </li>
             <li class="mb-3">
-              <span class="fa-li"><i class="fas fa-phone"></i></span><span class="ms-2">+234 803 3813 025</span>
+              <span class="fa-li"><i class="fas fa-phone"></i></span><span class="ms-2"><a href="tel:+2348033813025">+2348033813025</a></span>
             </li>
             <li class="mb-3">
-              <span class="fa-li"><i class="fas fa-print"></i></span><span class="ms-2">+234 813 4149 257</span>
+              <span class="fa-li"><i class="fas fa-print"></i></span><span class="ms-2"><a href="tel:+2348134149257">+2348134149257</a></span>
             </li>
           </ul>
         </div>

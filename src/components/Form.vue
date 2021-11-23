@@ -1,7 +1,7 @@
 <template>
   <div id="login-form">
         
-        <form method="get" action="/">
+        <form method="get" action="">
             <div class="form-group">
                 <label for="email">Email address</label>
                 <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email" required>

@@ -1,6 +1,6 @@
 <template>
   <!-- <HelloWorld /> -->
-  <img id="logo" alt="Mater Dei logo" src="../assets/logo.jpg">
+  <img id="logo" alt="Mater Dei logo" src="../assets/logo.png">
         <HelloWorld msg="Mater Dei College"/>
   <loginForm />
 </template>
